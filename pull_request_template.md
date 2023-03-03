@@ -1,7 +1,7 @@
 ---
 name: merge_request_template.md
 about: Merge request
-title: ''
+title: 'exam-group2'
 labels: ''
 assignees: ''
 ---
