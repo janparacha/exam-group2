@@ -1,10 +1,10 @@
-# How To Make A Good Repository On Github
+# How To install the dependecies of our project
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+To install all the dependecies needed, please do "npm install" or "yarn install" in the command line of the project on your terminal or IDE.
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+# How To run the linter
 
-Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
+Do the following command before commit : 
 
 ## Contributing
 
