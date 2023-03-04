@@ -1,10 +1,17 @@
 # How To install the dependecies of our project
 
-To install all the dependecies needed, please do "npm install" or "yarn install" in the command line of the project on your terminal or IDE.
+To install all the dependecies needed, please do 
+```
+$ npm install or yarn install
+``` 
+in the command line of the project on your terminal or IDE.
 
 # How To run the linter
 
 Do the following command before commit : 
+```
+$ npx mrm@2 lint-staged
+```
 
 ## Contributing
 
